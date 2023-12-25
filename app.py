@@ -62,7 +62,7 @@ Key highlights of my qualifications include:
 - Proficiency in Python and its libraries like pytorch, tensorflow, matplotlib, pandas,
 flask, and sklearn.
 
-- Familiarity with Machine Learning and Web application development.
+- Familiarity with Machine Learning and Web application frameworks like Django and Flask.
 
 - Proficiency with SQL and Spreadsheets.
 
