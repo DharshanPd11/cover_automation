@@ -59,12 +59,12 @@ app extensions using REST/APIs.
 
 Key highlights of my qualifications include:
 
-- Proficiency in Python and its libraries like pytorch, tensorflow, matplotlib, pandas,
-flask, and sklearn.
+- Web application development using Python with Django or Flask, HTML/CSS, REST/APIs. 
 
-- Familiarity with Machine Learning and Web application frameworks like Django and Flask.
+- Familiar with ML libraries like pytorch, tensorflow, matplotlib, pandas,
+and sklearn.
 
-- Proficiency with SQL and Spreadsheets.
+- Proficiency with Databases linke MySQL/Postgresql.
 
 - Data Analysis and problem-solving abilities.
 
